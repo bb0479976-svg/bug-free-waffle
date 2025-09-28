@@ -28,5 +28,11 @@
         "key": "Rare",
         "expirydate": "15-12-2025",
         "Allowoffline": True
+    },
+    {
+        "device_id": "190af7cbea175e6e",
+        "key": "RareTrick",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
     }
 ]
