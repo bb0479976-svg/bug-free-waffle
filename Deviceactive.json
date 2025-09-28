@@ -16,5 +16,11 @@
         "key": "Admin",
         "expirydate": "15-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "745b92c187795f6b",
+        "key": "RareTricck",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
     }
 ]
