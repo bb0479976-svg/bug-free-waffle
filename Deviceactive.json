@@ -21,12 +21,12 @@
         "device_id": "745b92c187795f6b",
         "key": "RareTricck",
         "expirydate": "15-12-2025",
-        "Allowoffline": false
+        "Allowoffline": True
     },
     
         "device_id": "b3db4c6f25ee57c9",
         "key": "Rare",
         "expirydate": "15-12-2025",
-        "Allowoffline": false
+        "Allowoffline": True
     }
 ]
